@@ -11,7 +11,6 @@
 
 
 ##  Project Guide
-
 *Dr. Bharti Chugh*  
 Associate Professor, CSE
 ---
