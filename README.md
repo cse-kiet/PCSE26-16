@@ -13,14 +13,11 @@
 
 ---
 
-## Abstract
+## Overview
 In today’s digital world, big data systems are widely used in finance, healthcare, and cloud platforms. However, these systems face major challenges in data security, privacy, and compliance. 
 
 This research proposes a **multi-layered security framework** that integrates AES-256 encryption, SHA-256 hashing, access control mechanisms, and compliance models. The results demonstrate improved confidentiality, integrity, and availability with minimal performance overhead.
 
----
-
-## Objectives
 - To analyze security challenges in financial big data systems  
 - To study existing security techniques and their limitations  
 - To design a multi-layered security framework  
@@ -39,7 +36,7 @@ Existing solutions lack integration and fail to provide complete end-to-end secu
 
 ---
 
-## Literature Review (Summary)
+## Summary
 Existing research focuses on individual techniques:
 - Encryption: RSA, AES, Hybrid methods  
 - Access Control: RBAC, ABAC  
@@ -48,9 +45,6 @@ Existing research focuses on individual techniques:
 
 However, these approaches are mostly standalone and not suitable for real-time financial systems.
 
----
-
-## Research Gaps
 - Lack of integrated security frameworks  
 - Weak real-time protection mechanisms  
 - Limited compliance enforcement  
@@ -103,12 +97,9 @@ Our framework offers a **complete end-to-end security solution**.
 
 ---
 
-## Conclusion
+## Conclusion & Future Work
 The proposed framework provides a practical and scalable solution for securing financial big data systems. It ensures confidentiality, integrity, and availability while maintaining system performance.
 
----
-
-## Future Work
 - Integration of AI-based threat detection  
 - Development of quantum-resistant security techniques  
 - Extension to healthcare and cloud environments  
@@ -122,16 +113,7 @@ The paper has been **accepted for publication** and is expected to be published 
 
 ---
 
-## Repository Contents
-- Project Report (PDF & Word)  
-- Research Paper  
-- Project Certificate  
-- Code files (if applicable)  
-- Supporting documents  
-
----
-
-## 📜 Declaration
+## Declaration
 This project is an original research work carried out by our team and adheres to academic integrity and plagiarism guidelines.
 
 ---
