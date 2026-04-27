@@ -2,6 +2,15 @@
 
 ---
 
+## Team Members
+- Himani Arya (2200290100084)
+- Akanksha Singh (2200290100016)
+- Ayushi Sharma (2200290100053)
+- Prachi Singh (2200290100115)
+*Project Guide:* Dr. Bharti Chugh (Associate Professor, CSE)
+
+---
+
 ## Abstract
 In today’s digital world, big data systems are widely used in finance, healthcare, and cloud platforms. However, these systems face major challenges in data security, privacy, and compliance. 
 
@@ -117,14 +126,6 @@ The paper has been **accepted for publication** and is expected to be published 
 - Project Certificate  
 - Code files (if applicable)  
 - Supporting documents  
-
----
-
-## Team Members
-- Himani Arya
-- Akanksha Singh  
-- Ayushi Sharma
-- Prachi Singh 
 
 ---
 
