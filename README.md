@@ -9,9 +9,8 @@
 3. Ayushi Sharma (2200290100053)  
 4. Prachi Singh (2200290100115)  
 
-##  Project Guide
-*Dr. Bharti Chugh*  
-Associate Professor, CSE
+-Project Guide: *Dr. Bharti Chugh* (Associate Professor, CSE)
+
 ---
 
 ## Abstract
