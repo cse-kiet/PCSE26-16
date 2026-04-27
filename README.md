@@ -2,13 +2,19 @@
 
 ---
 
-## Team Members
-- Himani Arya (2200290100084)
-- Akanksha Singh (2200290100016)
-- Ayushi Sharma (2200290100053)
-- Prachi Singh (2200290100115)
-*Project Guide:* Dr. Bharti Chugh (Associate Professor, CSE)
+##  Team Members
 
+1. Himani Arya (2200290100084)  
+2. Akanksha Singh (2200290100016)  
+3. Ayushi Sharma (2200290100053)  
+4. Prachi Singh (2200290100115)  
+
+---
+
+##  Project Guide
+
+*Dr. Bharti Chugh*  
+Associate Professor, CSE
 ---
 
 ## Abstract
